@@ -11,5 +11,6 @@ export const palette = {
   },
   action: {
     disabled: '#717171',
+    disabledBackground: '#DEDEDE',
   },
 };

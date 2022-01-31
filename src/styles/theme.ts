@@ -7,4 +7,10 @@ export const theme = createTheme({
   overrides: {
     MuiButton,
   },
+  props: {
+    MuiButton: {
+      disableRipple: true,
+      disableElevation: true,
+    },
+  },
 });
